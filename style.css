@@ -1,0 +1,36 @@
+.container{
+    /* border: 20px;
+    display: flex;
+    text-align: center;
+    margin: 20px;
+    align-items: center; */
+    /* background-color: red; */
+    text-align: center;
+    
+}
+
+.wrapper {
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+body{
+    align-items: center;
+    /* text-align: center; */
+    justify-content: center;
+    margin: 20px;
+    display: flex;
+    background-color: antiquewhite;
+    height: 90vh;
+}
+
+input{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 5px;
+    margin-top: 20px;
+}
